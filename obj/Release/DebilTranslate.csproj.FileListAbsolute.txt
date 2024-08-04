@@ -1,0 +1,10 @@
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\bin\Release\DebilTranslate.exe.config
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\bin\Release\DebilTranslate.exe
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\bin\Release\DebilTranslate.pdb
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\obj\Release\DebilTranslate.csproj.AssemblyReference.cache
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\obj\Release\DebilTranslate.Form1.resources
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\obj\Release\DebilTranslate.Properties.Resources.resources
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\obj\Release\DebilTranslate.csproj.GenerateResource.cache
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\obj\Release\DebilTranslate.csproj.CoreCompileInputs.cache
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\obj\Release\DebilTranslate.exe
+D:\Users\zhopa\Desktop\C#\DebilTranslate\DebilTranslate\obj\Release\DebilTranslate.pdb
